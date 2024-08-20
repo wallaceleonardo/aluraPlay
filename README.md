@@ -1,5 +1,18 @@
-Vídeos da sessão vídeos:
 
+## Projeto Alura Play
+Objetivo: _O _**Alura Play**_ é um site responsivo com vários vídeos de diversos conteúdos da Alura. Foi abordado na criação desta aplicação, as propriedades CSS: Flexbox e layouts responsivos, sendo construido para telas mobiles, tablets e desktops._
+
+
+## Figma do projeto
+https://www.figma.com/design/58USt8VzUEqJy7Acno5WFr/Alura-Play?node-id=0-1&t=jMEvlvpMlnimkUHL-0
+
+## Artigos Alura
+### Extensões VS Code: descubra quais são as mais usadas
+https://www.alura.com.br/artigos/extensoes-vs-code-descubra-as-mais-usadas
+
+## Outros links importantes
+
+## Vídeos da sessão vídeos:
         <li class="videos__item">
             <iframe width="100%"  height="72%" src="https://www.youtube.com/embed/pA-EgOaF23I" title="YouTube video player" frameborder="0"
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
