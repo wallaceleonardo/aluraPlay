@@ -1,3 +1,5 @@
+/* PROPRIEDADES DO CABEÇALHO */
+
 .cabecalho__container {
     display: flex;
     justify-content: space-between;
@@ -10,8 +12,36 @@
     display: none;
 }
 
+/* PROPRIEDADES DA SEÇÃO SUPERIOR */
+.superior__secao__container {
+    display: flex;
+    align-items: center;
+    white-space: nowrap; /* propriedade para evitar a quebra de linha */
+    overflow: scroll; /* propriedade para criar uma barra de rolagem */
+    gap: 15px; /* propriedade para aplicar uma espaçamento entre itens */
+}
+
+/* PROPRIEDADES DO RODAPÉ */
+
+.rodape__container {
+    display: flex;
+    /* flex-direction: column; 
+    flex-wrap: wrap; */ 
+    flex-flow: column wrap; /* a propriedade flex-flow, substitui as flex-directio e flex-wrap */
+}
+
+
 @media (min-width: 834px) {
+    
+    /* PROPRIEDADES DO CABEÇALHO */
+
     .cabecalho__pesquisar__item {
         display: block;
+    }
+
+    /* PROPRIEDADES DO RODAPÉ */
+
+    .rodape__container {
+        justify-content: space-between;
     }
 }
