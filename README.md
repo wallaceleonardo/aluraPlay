@@ -2,7 +2,6 @@
 ## Projeto Alura Play
 Objetivo: _O _**Alura Play**_ é um site responsivo com vários vídeos de diversos conteúdos da Alura. Foi abordado na criação desta aplicação, as propriedades CSS: Flexbox e layouts responsivos, sendo construido para telas mobiles, tablets e desktops._
 
-
 ## Figma do projeto
 https://www.figma.com/design/58USt8VzUEqJy7Acno5WFr/Alura-Play?node-id=0-1&t=jMEvlvpMlnimkUHL-0
 
@@ -10,7 +9,16 @@ https://www.figma.com/design/58USt8VzUEqJy7Acno5WFr/Alura-Play?node-id=0-1&t=jME
 ### Extensões VS Code: descubra quais são as mais usadas
 https://www.alura.com.br/artigos/extensoes-vs-code-descubra-as-mais-usadas
 
+### Flexbox CSS: Guia Completo, Elementos e Exemplos
+https://www.alura.com.br/artigos/css-guia-do-flexbox
+
+### Reset CSS: O que é, exemplos, como Criar e usar
+https://www.alura.com.br/artigos/o-que-e-reset-css
+
 ## Outros links importantes
+
+### O post _A Complete Guide to Flexbox_ é uma ótima referência para consultar informações sobre todas as propriedades e valores do Flexbox(post em inglês). 
+https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 
 ## Vídeos da sessão vídeos:
         <li class="videos__item">
