@@ -15,19 +15,25 @@ https://www.alura.com.br/artigos/css-guia-do-flexbox
 ### Reset CSS: O que é, exemplos, como Criar e usar
 https://www.alura.com.br/artigos/o-que-e-reset-css
 
+### CSS Object-fit: trabalhando com proporções
+https://www.alura.com.br/artigos/css-object-fit-trabalhando-proporcoes
+
 ## Outros links importantes
 
 ### O post _A Complete Guide to Flexbox_ é uma ótima referência para consultar informações sobre todas as propriedades e valores do Flexbox(post em inglês). 
 https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 
-### Flexbox Defense
+### Flexbox Defense (Site para treinar o flexbox)
 http://www.flexboxdefense.com/
 
-### Flexbox Froggy
+### Flexbox Froggy (Site para treinar o flexbox)
 https://flexboxfroggy.com/
 
-### Flexbox Zombies
+### Flexbox Zombies (Site para treinar o flexbox)
 https://mastery.games/flexboxzombies/
+
+### Flex containers
+https://yoksel.github.io/flex-cheatsheet/#section-declaring
 
 ## Vídeos da sessão vídeos:
         <li class="videos__item">
