@@ -20,6 +20,15 @@ https://www.alura.com.br/artigos/o-que-e-reset-css
 ### O post _A Complete Guide to Flexbox_ é uma ótima referência para consultar informações sobre todas as propriedades e valores do Flexbox(post em inglês). 
 https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 
+### Flexbox Defense
+http://www.flexboxdefense.com/
+
+### Flexbox Froggy
+https://flexboxfroggy.com/
+
+### Flexbox Zombies
+https://mastery.games/flexboxzombies/
+
 ## Vídeos da sessão vídeos:
         <li class="videos__item">
             <iframe width="100%"  height="72%" src="https://www.youtube.com/embed/pA-EgOaF23I" title="YouTube video player" frameborder="0"
